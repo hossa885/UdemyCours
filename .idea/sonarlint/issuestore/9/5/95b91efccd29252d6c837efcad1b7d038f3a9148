@@ -1,0 +1,15 @@
+
+Rsquid:S1854"6Remove this useless assignment to local variable "c4".(·þ×úøÿÿÿÿ
+Rsquid:S1854"6Remove this useless assignment to local variable "c3".(Ä­Ý­ùÿÿÿÿ
+Rsquid:S1854"6Remove this useless assignment to local variable "c2".(óŽ¥„þÿÿÿÿ
+Msquid:S1854"6Remove this useless assignment to local variable "c1".(É½‡ 
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å‡õÑ
+>squid:S1481"'Remove this unused "c1" local variable.(É½‡ 
+Csquid:S1481"'Remove this unused "c2" local variable.(óŽ¥„þÿÿÿÿ
+Csquid:S1481"'Remove this unused "c3" local variable.(Ä­Ý­ùÿÿÿÿ
+Csquid:S1481"'Remove this unused "c4" local variable.(·þ×úøÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Âµå
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—ÎÈÃ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôµßæúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñæÜ‹üÿÿÿÿ

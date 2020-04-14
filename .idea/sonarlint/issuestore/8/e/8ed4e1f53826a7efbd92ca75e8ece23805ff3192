@@ -1,0 +1,10 @@
+
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ú‹8“ÎŒÙş-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(†·ÈĞ8é±¬Şş-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(œãæ²8˜¶¹Şş-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Š°æÍ8³ÅÙş-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šìÁ
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(œãæ²8áˆ°Şş-

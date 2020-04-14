@@ -1,0 +1,10 @@
+
+c$squid:AssignmentInSubExpressionCheck"".Extract the assignment out of this expression.(Úäşûÿÿÿÿ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ñ üÙùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ üÙùÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîİ‰úÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹—ûÏ
+ksquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈèÿÿÿÿÿ

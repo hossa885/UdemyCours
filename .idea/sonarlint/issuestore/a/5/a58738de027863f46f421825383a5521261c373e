@@ -1,0 +1,15 @@
+
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¯ƒg
+psquid:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(þÜÉÏ
+O
+squid:S106K"9Replace this use of System.out or System.err by a logger.(œ•é‹
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(°ÇÒ“üÿÿÿÿ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(Ïç“
+gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ƒ´øÿÿÿÿ
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(¬í¿ãÿÿÿÿÿ
+asquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ˆñû-
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ö­æ–ûÿÿÿÿ
+gsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(§ŸÐ°ýÿÿÿÿ
+bsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(²³•á
+gsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(¨êù‡ûÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(Æ…Ïýÿÿÿÿ

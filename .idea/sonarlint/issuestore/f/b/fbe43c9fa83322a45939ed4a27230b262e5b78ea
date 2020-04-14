@@ -1,0 +1,9 @@
+
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©Ä
+isquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïûä
+nsquid:S00116"VRename this field "study_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£œÄ
+ksquid:S00116"NRename this field "GPA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŠÚôúÿÿÿÿ
+T
+squid:S106	"9Replace this use of System.out or System.err by a logger.(òÃÎÚşÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Äöüÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©Ä

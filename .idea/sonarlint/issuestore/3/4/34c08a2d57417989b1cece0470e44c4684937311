@@ -1,0 +1,7 @@
+
+Tsquid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äð1
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÏ¿³
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú¾Í‚üÿÿÿÿ

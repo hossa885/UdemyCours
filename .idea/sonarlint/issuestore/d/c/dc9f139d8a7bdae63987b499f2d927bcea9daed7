@@ -1,0 +1,53 @@
+
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ã«Ôäþ-
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.( ïÆ³8÷ôËâþ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¨¨ùÿÿÿÿ
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(Çïšøúÿÿÿÿ8÷ôËâþ-
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ºžÃ¿ûÿÿÿÿ8¶¹Èâþ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(òí’ÿÿÿÿÿ8ÛÁßþ-
+hsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ãÖû&8÷ôËâþ-
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(üëÍþ8¶¹Èâþ-
+isquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(†˜È¨8øË÷äþ-
+nsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(¤Ø¹Üüÿÿÿÿ8•œ÷äþ-
+isquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(‰¿Ëö8•œ÷äþ-
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8öØ¦‰ÿ-
+isquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ß…›8öØ¦‰ÿ-
+V
+squid:S106w"9Replace this use of System.out or System.err by a logger.(ðÔ‘¬8ÿ´šÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(â²õÑûÿÿÿÿ8ü¶ßþ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(þæ£ñþÿÿÿÿ8ñâþ-
+Gsquid:S1481")Remove this unused "file" local variable.(²Ÿ‚Ç8Ã«Ôäþ-
+isquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(þ™É’8¤ž³ÿ-
+isquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(¶ˆ”8öØ¦‰ÿ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âçá8ýåâþ-
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ðå¥™þÿÿÿÿ8÷ôËâþ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ˆœ‡8°§¿ßþ-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ï€É‘þÿÿÿÿ8÷ôËâþ-
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(Äˆ¹êúÿÿÿÿ8øË÷äþ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¨î38šÿ»ßþ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¶¶ß8ÿÌÀßþ-
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¬»—‰úÿÿÿÿ8÷ôËâþ-
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ïÊ¸ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¿˜þÿÿÿÿ8¼³·ßþ-
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(…¼ôƒüÿÿÿÿ8ÿ´šÿ-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(²Ÿ‚Ç8ÉÑ†âþ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÔþþÿÿÿÿ8÷Ùºßþ-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(¼½Ð’8÷ôËâþ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¡ö´8÷ýÆßþ-
+Vsquid:S1854"8Remove this useless assignment to local variable "file".(²Ÿ‚Ç8Ã«Ôäþ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Þè·8ãÊ´ßþ-
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(–›éâýÿÿÿÿ8øË÷äþ-
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ºÕþÿÿÿÿ8÷ôËâþ-
+nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(†Óµéøÿÿÿÿ8¸¶¼ÿ-

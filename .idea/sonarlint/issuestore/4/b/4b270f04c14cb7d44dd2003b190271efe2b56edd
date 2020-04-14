@@ -1,0 +1,15 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ôûåÿÿÿÿÿ
+Msquid:UselessImportCheck"$Remove this unused import 'oop.Car'.(ÉÕùúÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(´äİƒøÿÿÿÿ
+N
+squid:S106+"9Replace this use of System.out or System.err by a logger.(›®˜J
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Âµå
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—ÎÈÃ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Şğ”Çıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Ó÷ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Õ˜¯
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(àøØÙ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(İğÚƒûÿÿÿÿ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(àøØÙ

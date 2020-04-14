@@ -1,0 +1,10 @@
+
+qsquid:S1450"ZRemove the "inversetext" field and declare it as a local variable in the relevant methods.(¢ŒØæ
+Tsquid:S1197"8Move the array designator from the variable to the type.(íëÅ­ÿÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(½Î€¶
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ

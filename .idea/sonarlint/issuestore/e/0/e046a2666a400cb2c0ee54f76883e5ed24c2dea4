@@ -1,0 +1,8 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýÐÎìýÿÿÿÿ
+fsquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›”ò
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÆÊÙÎ
+gsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ªðñèøÿÿÿÿ
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

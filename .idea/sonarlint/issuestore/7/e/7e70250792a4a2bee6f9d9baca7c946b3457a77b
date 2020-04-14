@@ -1,0 +1,10 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Peter" 3 times.(Ð³«ñÿÿÿÿÿ
+msquid:S1192"QDefine a constant instead of duplicating this literal "----------------" 3 times.(¶´›§þÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°¥¼íýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ

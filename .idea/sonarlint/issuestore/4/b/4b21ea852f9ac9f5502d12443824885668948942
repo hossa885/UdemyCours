@@ -1,0 +1,20 @@
+
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùà†)
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üñÅš
+nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âä´¶ÿÿÿÿÿ
+isquid:S00116"QRename this field "emp_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ ¥¬
+ksquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì»ÍÃùÿÿÿÿ
+ksquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŞ¼üÿÿÿÿ
+ksquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«—‹ùÿÿÿÿ
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÙÄ÷
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(”¤€ú
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ÄœÜçÿÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¯Æö›ıÿÿÿÿ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ö¿ÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÏÌ¥å

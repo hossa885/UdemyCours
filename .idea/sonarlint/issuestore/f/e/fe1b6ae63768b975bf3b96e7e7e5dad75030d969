@@ -1,0 +1,8 @@
+
+^squid:S2184"BCast one of the operands of this division operation to a "double".(Рхн€э€€€€
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(юркл€€€€€
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(№с≠і
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(рЪЊТы€€€€
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(џфлущ€€€€

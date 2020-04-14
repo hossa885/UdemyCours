@@ -1,0 +1,9 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©Ø‘¼ùÿÿÿÿ
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ß£Æù
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÏŒéùÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍåöıÿÿÿÿ
+bsquid:S3027"FPut single-quotes around ' ' to use the faster "indexOf(char)" method.(¿ÿ—şÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©âıÚ

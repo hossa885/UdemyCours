@@ -1,0 +1,17 @@
+
+Esquid:S14814")Remove this unused "set1" local variable.(²ôîÎüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¼¼öùÿÿÿÿ
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ğã›Üÿÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(† Ùëûÿÿÿÿ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(¦Ê øøÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(µ€šœúÿÿÿÿ
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(½®‡
+Esquid:S14815")Remove this unused "map1" local variable.(•æ£üÿÿÿÿ
+Tsquid:S18545"8Remove this useless assignment to local variable "map1".(•æ£üÿÿÿÿ
+Tsquid:S18544"8Remove this useless assignment to local variable "set1".(²ôîÎüÿÿÿÿ
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¨ÑƒĞ

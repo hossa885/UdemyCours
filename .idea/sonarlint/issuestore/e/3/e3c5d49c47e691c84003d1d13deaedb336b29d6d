@@ -1,0 +1,18 @@
+
+usquid:S1488!"^Immediately return this expression instead of assigning it to the temporary variable "strAll".(€¾¥ı
+zsquid:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "strAll".(’éÛêşÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"YMake StudentNumber a static final constant or non-public and provide accessors if needed.(¦‘¹º
+Š"squid:ClassVariableVisibilityCheck"WMake StudentCode a static final constant or non-public and provide accessors if needed.(Ä±­¡ÿÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake StudentName a static final constant or non-public and provide accessors if needed.(ÎÓ¾Õùÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake BranchName a static final constant or non-public and provide accessors if needed.(Åéğøùÿÿÿÿ
+isquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‚
+isquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‚
+Msquid:S1153'"1Directly append the argument of String.valueOf().(’éÛêşÿÿÿÿ
+psquid:S00116"XRename this field "StudentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‘¹º
+ssquid:S00116"VRename this field "StudentCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä±­¡ÿÿÿÿÿ
+ssquid:S00116"VRename this field "StudentName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÓ¾Õùÿÿÿÿ
+rsquid:S00116"URename this field "BranchName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åéğøùÿÿÿÿ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ÿ”šµúÿÿÿÿ
+Osquid:S1197!"8Move the array designator from the variable to the type.(€¾¥ı

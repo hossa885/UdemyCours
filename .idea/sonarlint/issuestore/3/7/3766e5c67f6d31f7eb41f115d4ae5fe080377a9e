@@ -1,0 +1,14 @@
+
+Psquid:S4973"9Use the "equals" method if value comparison was intended.(ã—ó¢
+Psquid:S4973"9Use the "equals" method if value comparison was intended.(ã—ó¢
+Psquid:S4973"9Use the "equals" method if value comparison was intended.(ã—ó¢
+nsquid:S3008"XRename this field "no_of_objects" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İó
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç‚ÚÏıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈæÅ„şÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒìÉûÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(ĞØ£÷
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ñ‚ùÍşÿÿÿÿ
