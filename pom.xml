@@ -9,26 +9,16 @@
         <version>2.1.8.RELEASE</version>
     </parent>
 
-    <artifactId>shipmentservice</artifactId>
-    <name>shipmentservice</name>
-    <description>Shipment service fuer myhermes.de</description>
+    <artifactId>UdemyJavaCourse</artifactId>
+    <name>Javacourse</name>
+    <description>private Javacourse</description>
     <version>1.0-SNAPSHOT</version>
-    <url>https://www.myhermes.de</url>
-    <organization>
-        <name>Hermes Germany GmbH</name>
-        <url>https://www.myhermes.de</url>
-    </organization>
-    <developers>
-        <developer>
-            <id>PUA-Team</id>
-            <name>PUA Team</name>
-            <email>PUA-Team@hermesworld.com</email>
-        </developer>
-    </developers>
+       <developers>
+       </developers>
 
     <scm>
-        <connection>scm:git:https://git02.int.hlg.de/scm/myh/myh-shipmentservice.git</connection>
-        <developerConnection>scm:git:https://git02.int.hlg.de/scm/myh/myh-shipmentservice.git</developerConnection>
+        <connection>https://github.com/hossa885/UdemyCourse.git</connection>
+        <developerConnection>https://github.com/hossa885/UdemyCourse.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
@@ -50,17 +40,9 @@
     </properties>
 
     <distributionManagement>
-        <repository>
-            <id>nexus-releases</id>
-            <name>Nexus Releases Repo</name>
-            <url>https://nexus.int.hlg.de/nexus/content/repositories/releases/</url>
-            <uniqueVersion>false</uniqueVersion>
-            <layout>default</layout>
-        </repository>
-        <snapshotRepository>
+            <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>Nexus Snapshots Repo</name>
-            <url>http://nexus.int.hlg.de/nexus/content/repositories/snapshots/</url>
             <uniqueVersion>false</uniqueVersion>
             <layout>default</layout>
         </snapshotRepository>
@@ -250,14 +232,6 @@
                         <artifactId>jacoco-maven-plugin</artifactId>
                         <version>${jacoco.version}</version>
                         <configuration>
-                            <excludes>
-                                <exclude>de/hermes/myh/**/*Config.*</exclude>
-                                <exclude>de/hermes/myh/**/*TO.*</exclude>
-                                <exclude>de/hermes/myh/**/*Enum.*</exclude>
-                                <exclude>de/hermes/myh/**/*Type.*</exclude>
-                                <exclude>de/hermes/myh/**/*Application.*</exclude>
-                                <exclude>de/hermes/myh/**/ApiSecurity.*</exclude>
-                            </excludes>
                         </configuration>
                         <executions>
                             <execution>
