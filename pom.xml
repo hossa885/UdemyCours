@@ -34,7 +34,7 @@
         <sonar.tests>src/test/java</sonar.tests>
         <sonar.coverage.exclusions>**/*Mock*.*,**/*TO.*,**/*Config.*,**/*Properties.*</sonar.coverage.exclusions>
         <sonar.javascript.lcov.reportPaths>target/lcov.info</sonar.javascript.lcov.reportPaths>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.9</logback.version>
         <spring-cloud-sleuth.version>2.1.3.RELEASE</spring-cloud-sleuth.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
     </properties>
